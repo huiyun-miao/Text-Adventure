@@ -1,0 +1,61 @@
+The following content contains a short description of the game and a list of commands that players could follow to win the game in a short time.
+It is not necessary to follow the exact commands to win the game.
+
+
+DESCRIPTION:
+
+This game is about a first-year student participating in an adventure to explore Aalto University.
+
+The game starts on an empty ground surrounded by buildings.
+There are 5 buildings in total: Väre, TUAS, Undergraduate Center, Library, and Täffä.
+The player needs to search for badges in the buildings. 
+If the player gets at least 4 badges and brings them to Täffä on time, the player wins.
+
+The player can start by going in any direction shown on the screen. 
+Some buildings have more than one floor which can be entered by using "go upstairs" or "go downstairs". 
+Each building has at least one item that the player can pick up.
+Some items are hidden in other items, which can be retrieved by examining the items.
+
+The player can try to use all the items, but not all of them are useful.
+
+There are more than 4 badges in the game.
+There are 9 items in total.
+The player will get an extra reward if he/she has all the badges.
+
+
+LIST OF COMMANDS:
+
+go east -> player goes to the Undergraduate Center
+go upstairs -> player goes to the second floor of the Undergraduate Center
+get map -> player gets the map
+get badge -> player get a badge
+use map -> a map with directions of each building shown on the screen
+go downstairs -> player goes back to the Undergraduate Center
+go south -> player goes to the library
+get dictionary -> player gets the dictionary
+examine dictionary -> a hidden badge appears and the player gets the badge automatically
+go west -> player goes to Väre
+go upstairs -> player goes to the second floor of Väre
+get magazine -> player gets the magazine
+examine magazine -> a hidden badge appears and the player gets the badge automatically
+go downstairs -> player goes back to Väre
+go downstairs -> player goes to Väre workshop
+get badge -> player gets a badge
+go upstairs -> player goes back to Väre
+go north -> player goes to TUAS
+go upstairs -> player goes to the second floor of TUAS
+get bag -> player gets the bag 
+examine bag -> a hidden badge appears and the player gets the badge automatically
+go downstairs -> player goes back to TUAS
+go east -> player goes to the Undergraduate Center
+go east -> player goes to Täffä and wins the game
+
+Other commands:
+
+inventory -> all the items the player has and their quantities will appear on the screen
+use (item other than the map) -> different sentences will appear on the screen, but none of them has effects on the game
+rest -> the player rest for a while and uses one turn
+help -> all the commands will appear on the screen
+quit -> the player quits the game
+
+
